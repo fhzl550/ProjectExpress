@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e0840dd-e046-4cc4-98d6-f1f8dac63461" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/.idea/runConfigurations/bin_www.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/public/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/routes/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/views/error.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/views/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpressProject/views/layout.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OBmAqRyXLFjF1jXpYDNEqwXObe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/yun-usang/Documents/ProjectExpress",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/yun-usang/Documents/ProjectExpress/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="8e0840dd-e046-4cc4-98d6-f1f8dac63461" name="변경" comment="" />
+      <created>1681042208699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681042208699</updated>
+      <workItem from="1681042209727" duration="220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
